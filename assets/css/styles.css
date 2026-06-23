@@ -1,10 +1,10 @@
 :root {
   /* Brand palette */
-  --navy: #0a1a3a;
-  --navy-light: #122a5a;
-  --primary: #1e4d8c;
-  --accent: #d4a843;
-  --accent2: #b8860b;
+  --navy: #304060;
+  --navy-light: #44536f;
+  --primary: #515e79;
+  --accent: #ce671d;
+  --accent2: #bd5e1a;
   --light-bg: #fff8e1;
   --body: #3a4d6b;
   --card-bg: #ffffff;
@@ -890,3 +890,12 @@ img.responsive { width: 100%; height: auto; }
   .site-header { position: static; }
   body { padding-bottom: 0; }
 }
+
+/* remediation: recovered-photo classes */
+.media-photo{width:100%;height:auto;display:block;border-radius:18px;object-fit:cover;box-shadow:0 22px 48px -26px rgba(0,0,0,.5)}
+.svc-photo{width:100%;height:auto;display:block;border-radius:16px;margin:0 0 22px;object-fit:cover;max-height:420px}
+.badge-img{height:72px;width:auto;display:block}
+/* remediation: real logo sizing */
+.brand__logo{height:52px;width:auto;display:block}
+.footer-brand .brand__logo{height:62px}
+@media(max-width:600px){.brand__logo{height:42px}}
