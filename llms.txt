@@ -1,15 +1,26 @@
 # Burlington HVAC Pros
 
-> Licensed, insured HVAC company in Burlington, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Burlington and Halton Region. Call (905) 637-4218.
+> Burlington HVAC Pros is a local HVAC company serving Burlington, Halton Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 637-4218  |  Email: contact@burlingtonhvacpros.ca  |  Website: https://burlingtonhvacpros.ca
+
+Service areas: Burlington, Oakville, Milton, Georgetown, Acton, Ajax, Pickering, Whitby
 
 ## Key pages
-- [Home](https://burlingtonhvacpros.ca/)
-- [Services](https://burlingtonhvacpros.ca/services/)
-- [About](https://burlingtonhvacpros.ca/about/)
-- [Blog](https://burlingtonhvacpros.ca/blog/)
-- [Contact](https://burlingtonhvacpros.ca/contact/)
 
-## Contact
-- Phone: (905) 637-4218
-- Email: contact@burlingtonhvacpros.ca
-- Area served: Burlington, Ontario and Halton Region
+- [Home](https://burlingtonhvacpros.ca/): Burlington HVAC Pros homepage with service overview and FAQ
+- [About](https://burlingtonhvacpros.ca/about/): About the company and service area
+- [Contact](https://burlingtonhvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://burlingtonhvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Burlington, Ontario
+- [AC Installation & Repair](https://burlingtonhvacpros.ca/services/ac-repair/): AC Installation & Repair in Burlington, Ontario
+- [Heat Pumps](https://burlingtonhvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Burlington, Ontario
+- [Duct Cleaning](https://burlingtonhvacpros.ca/services/duct-cleaning/): Duct Cleaning in Burlington, Ontario
+- [Thermostats](https://burlingtonhvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Burlington, Ontario
+- [Ductless AC Installation](https://burlingtonhvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Burlington, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Burlington are answered on the homepage.
